@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package studentprint;
-
+/**2 feb 2024
 /** model the student entity 
  *
  * @author kumar
